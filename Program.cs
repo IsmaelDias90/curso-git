@@ -12,6 +12,7 @@ namespace projetoTeste
             Console.WriteLine("Hello World!");
             Console.WriteLine("Boa Tarde!");
             Console.WriteLine($"{data.Date.ToString("dddd dd MMMM yyy")}");
+            Console.WriteLine("Tenha uma boa noite");
         }
     }
 }
